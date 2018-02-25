@@ -10,7 +10,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.toshiki.yesnoapplication.R;
+import com.toshiki.yesnoapplication.R;
 
 public class MainActivity extends AppCompatActivity{
 
