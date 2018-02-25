@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity{
                 crLayout.setBackgroundColor(Color.RED);
                 t.setText("いい加減にしろ");
                 t.setTextColor(Color.BLACK);
-                v.vibrate(10000);
+                v.vibrate(8000);
             }else {
                 this.count++;
                 Log.d("CustomOnClickListainer", String.valueOf(count));
